@@ -1,4 +1,2 @@
 ﻿  main.cpp
-C:\Users\Davi\OneDrive\Conteudo Academico\Faculdade 2022.1\Atividade 2\main.cpp(13,16): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'int *'
-C:\Users\Davi\OneDrive\Conteudo Academico\Faculdade 2022.1\Atividade 2\main.cpp(13,16): warning C4313: 'printf': '%d' na cadeia de formato está em conflito com o argumento 1 do tipo 'int *'
-  Atividade 2.vcxproj -> C:\Users\Davi\OneDrive\Conteudo Academico\Faculdade 2022.1\Atividade 2\x64\Debug\Atividade 2.exe
+  Atividade 2.vcxproj -> C:\Users\Davi\OneDrive\Conteudo Academico\Faculdade 2022.1\estrutura-de-dados\Atividade 3\Atividade 2\x64\Debug\Atividade 2.exe
